@@ -2,6 +2,18 @@
 /* CSS Document */
 body {
 	background-color: #F9FAFF;
-	font-size: 32px;
+	font-size: 32px;	
+}
+
+#wrapper {
+	max-width: 1920px;
+	margin: 0 auto;
+	
+}
+
+header{
+	background-color: #ADBBFF;
+	min-height: 200px;
+	padding: 0.625em;
 	
 }
